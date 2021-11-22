@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](./images/pg.jpg)
-<img src="./images/pg.jpg" style="zoom:20%">
+<img src="./images/pg.jpg" style="zoom:10%">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FF-Wong&hide=contribs,prs,issues&show_icons=true&theme=buefy&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
