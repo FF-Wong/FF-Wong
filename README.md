@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](./images/pg.jpg)
-<img src="./images/pg.jpg" style="zoom:80%">
+![](./images/pg.jpg){:width="100px" height="100px"}
+<img src="./images/pg.jpg" width="100px" height="100px" alt="图片名称" align=center>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FF-Wong&hide=contribs,prs,issues&show_icons=true&theme=buefy&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
