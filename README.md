@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](./images/pg.jpg){:width="100px" height="100px"}
 -->
 
-html <div align="center"> <img src="./images/pg.jpg" width="600px" height="600px" /> </div>
+<div align="center"> <img src="./images/pg.jpg" width="600px" height="600px" /> </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FF-Wong&hide=contribs,prs,issues&show_icons=true&theme=buefy&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
