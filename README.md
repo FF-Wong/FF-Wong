@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-![](./images/pg.jpg){:width="100px" height="100px"}
--->
+![](./images/pg.jpg)
+<img src="./images/pg.jpg" style="zoom:50%">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FF-Wong&hide=contribs,prs,issues&show_icons=true&theme=buefy&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center"> <img src="./images/pg.jpg" width="600px" height="600px" /> </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FF-Wong&hide=contribs,prs,issues&show_icons=true&theme=buefy&include_all_commits=true?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FF-Wong&hide=contribs,prs,issues&show_icons=true&theme=buefy&include_all_commits=true" />
+</a>
